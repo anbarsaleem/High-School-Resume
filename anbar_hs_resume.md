@@ -4,7 +4,7 @@
 
 ### Education
 
-* John F. Kennedy Memorial High School | Iselin, New Jersey
+* John F. Kennedy Memorial High School (JFKMHS) | Iselin, New Jersey
     - GPA - 3.96 / 4.33 
     - Class of 2021
 
@@ -33,12 +33,20 @@ Member | March 2017 - Present
 * Attended multiple Youth Muslim conferences (Ex. 44th Annual ICNA-MAS Convention)
 * Audited multiple lectures from well-known Muslim scholars (Ex. Sheikh Mohammad Elshinawy) and learned about cooperation/cordiality with those around me, regardless of race/religion
 
-#### Central Jersey Math League | Iselin, NJ
+#### Central Jersey Math League | Iselin, New Jersey
 Competitor | 2017 - Present
 
 * Honors Received
-    - Top Scorer from JFK at one competition
-    - Multiple Time Top 3 Scorer from JFK
+    - Top Scorer from JFKMHS at one competition
+    - Multiple Time Top 3 Scorer from JFKMHS
+
+#### Science Olympiad Inc. JFKMHS Team | Iselin, New Jersey
+Competitor | 2017 - Present
+
+* Designed and demonstrated Boomilever for competition
+
+#### Science National Honors Society | Iselin, New Jersey
+Member | 2019 - Present
 
 ### Certifications
 
@@ -48,4 +56,5 @@ Competitor | 2017 - Present
 ### Skills
 
 * Programming: Java, Markdown
-* English, Urdu
+* Languages: English, Urdu
+* Other: * Public Speaking, Leadership/Management, Teamwork, Problem-solving
