@@ -57,4 +57,4 @@ Member | 2019 - Present
 
 * Programming: Java, Markdown
 * Languages: English, Urdu
-* Other: * Public Speaking, Leadership/Management, Teamwork, Problem-solving
+* Other: Public Speaking, Leadership/Management, Teamwork, Problem-solving
