@@ -48,6 +48,13 @@ Competitor | 2017 - Present
 #### Science National Honors Society | Iselin, New Jersey
 Member | 2019 - Present
 
+#### High School Boys Varsity Cross Country Team | Iselin, New Jersey
+Runner/Competitor | 2017 - Present
+
+* 5k Race Personal Record *Official* (as according to [Milesplit](https://nj.milesplit.com/athletes/pro/7397640/stats)) - 21:40
+
+* 5k Race Personal Record *Unofficial* (Merrill Park 5k Course in Iselin, New Jersey) - 20:45
+
 ### Certifications
 
 * Microsoft Office Specialist: Word
@@ -57,4 +64,4 @@ Member | 2019 - Present
 
 * Programming: Java, Markdown
 * Languages: English, Urdu
-* Other: Public Speaking, Leadership/Management, Teamwork, Problem-solving
+* Other: * Public Speaking, Leadership/Management, Teamwork, Problem-solving
