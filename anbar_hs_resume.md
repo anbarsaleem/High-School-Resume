@@ -1,5 +1,6 @@
 # <p align = center> Anbar Saleem </p> 
 ## <p align = center> 1206 Maple Hill Dr. Woodbridge, NJ 07095 </p> 
+### <p align = center> +1 (973) - 826 - 2278 </p>
 ## <p align = center> <a href="https://github.com/anbarsaleem">Github</a></p>
 
 ### Education
@@ -17,13 +18,12 @@
 ### Extracurriculars and Affiliated Organizations
 
 #### First Robotics Competition Team 3515 Member | Iselin, New Jersey
-Mechanical Engineering Team Member → Electrical Engineering Team Member and Driver of Robot in Competition → Electrical Engineering Team Junior Captain and Drive Team Coach | October 2017 - Present
+Mechanical Engineering Team Member (First Power Up) → Electrical Engineering Team Member and Driver of Robot in Competition (First Deep Space) → Electrical Engineering Team Junior Captain and Drive Team Coach (First Infinite Recharge) | October 2017 - Present
 
 * Designed and applied the electrical system for First Infinite Recharge game
-* Driver of Robot in competition for First Deep Space game
-* Drive Team Coach for First Infinite Recharge game
-* Assisted as part of Mechanical Engineering Team for First Power Up and First Deep Space game
-- Developed strong understanding of Robot mechanics, programming, and electronics as drive team member, electrical team member, and mechanical team member
+* Learned about different models of motor controllers including the Spark and Talon-SRX series
+* Wired the entire electrical system together including motor controlers, power distribution panel, and RoboRio Robotics controller
+* Developed strong understanding of Robot mechanics, programming, and electronics as drive team member, electrical team member, and mechanical team member
 
 #### Central Jersey Math League | Iselin, New Jersey
 Competitor | 2017 - Present
@@ -35,7 +35,15 @@ Competitor | 2017 - Present
 #### Science Olympiad Inc. JFKMHS Team | Iselin, New Jersey
 Competitor | 2017 - Present
 
-* Designed and demonstrated Boomilever for competition
+* Learned about maximizing the load capacity of a balsa wood boomilever to be demonstrated in competition
+* Taught the designing and building process to new members that signed up for the event
+
+#### Stuyhacks IX Hackathon | New York City, New York
+Attendee | 2020
+
+* Designed a 3D platforming game programmed in C# using the Unity engine
+    - Done with a team of 4 in 12 hours
+
 
 #### High School Boys Varsity Cross Country Team | Iselin, New Jersey
 Runner/Competitor | 2017 - Present
@@ -49,4 +57,4 @@ Runner/Competitor | 2017 - Present
 
 * Programming: Java, Markdown
 * Languages: English, Urdu
-* Other: * Public Speaking, Leadership/Management, Teamwork, Problem-solving
+* Other: Public Speaking, Leadership/Management, Teamwork, Problem-solving
