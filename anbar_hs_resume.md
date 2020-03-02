@@ -10,7 +10,7 @@
 
 * Middlesex County College | Edison, New Jersey
     - GPA - 4.0 / 4.0
-    - Part-time student in High School Scholars Program
+    - High School Scholars Program
     - Completed Coursework: Precalculus, Analytical Geometry and Calculus I
 
 
@@ -26,13 +26,6 @@ Mechanical Engineering Team Member → Electrical Engineering Team Member and Dr
 * Assisted as part of Mechanical Engineering Team for First Power Up and First Deep Space game
 - Developed strong understanding of Robot mechanics, programming, and electronics as drive team member, electrical team member, and mechanical team member
 
-#### Young Muslims | Woodbridge, New Jersey
-Member | March 2017 - Present
-
-* Helped clean local mosque (MCNJ Masjid Bab-al-Rahmah) and serve food during Ramadan
-* Attended multiple Youth Muslim conferences (Ex. 44th Annual ICNA-MAS Convention)
-* Audited multiple lectures from well-known Muslim scholars (Ex. Sheikh Mohammad Elshinawy) and learned about cooperation/cordiality with those around me, regardless of race/religion
-
 #### Central Jersey Math League | Iselin, New Jersey
 Competitor | 2017 - Present
 
@@ -45,15 +38,8 @@ Competitor | 2017 - Present
 
 * Designed and demonstrated Boomilever for competition
 
-#### Science National Honors Society | Iselin, New Jersey
-Member | 2019 - Present
-
 #### High School Boys Varsity Cross Country Team | Iselin, New Jersey
 Runner/Competitor | 2017 - Present
-
-* 5k Race Personal Record *Official* (as according to [Milesplit](https://nj.milesplit.com/athletes/pro/7397640/stats)) - 21:40
-
-* 5k Race Personal Record *Unofficial* (Merrill Park 5k Course in Iselin, New Jersey) - 20:45
 
 ### Certifications
 
