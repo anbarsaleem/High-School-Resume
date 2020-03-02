@@ -1,6 +1,6 @@
 # <p align = center> Anbar Saleem </p> 
 ## <p align = center> 1206 Maple Hill Dr. Woodbridge, NJ 07095 </p> 
-## <p align = center> [Github](https://github.com/anbarsaleem)
+## <p align = center> <a href="https://github.com/anbarsaleem">Github</a></p>
 
 ### Education
 
@@ -12,7 +12,6 @@
     - GPA - 4.0 / 4.0
     - High School Scholars Program
     - Completed Coursework: Precalculus, Analytical Geometry and Calculus I
-
 
 
 ### Extracurriculars and Affiliated Organizations
