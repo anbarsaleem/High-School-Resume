@@ -42,7 +42,7 @@ Mechanical Engineering Team Member (First Power Up) → Electrical Engineering T
 Competitor/Captain | 2017 - Present
 
 * Honors Received
-    - Top Scorer from JFKMHS at one competition
+    - Top Scorer from JFKMHS
     - Multiple Time Top 3 Scorer from JFKMHS
 
 #### Kumon Math and Reading Center | Woodbridge, New Jersey
