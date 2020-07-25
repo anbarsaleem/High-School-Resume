@@ -8,7 +8,7 @@
 
 * Programming: Java, Markdown, HTML
 * Languages: English, Urdu
-* Other: Public Speaking, Leadership/Management, Teamwork, Problem-solving, Video Editing with Final Cut Pro X
+* Other: Public Speaking, Leadership/Management, Teamwork, Problem-solving, Video Editing with Final Cut Pro X, Crocheting
 
 ### Education
 
