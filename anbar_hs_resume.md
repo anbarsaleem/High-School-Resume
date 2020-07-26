@@ -1,5 +1,4 @@
 # <p align = center> Anbar Saleem </p> 
-## <p align = center> 701 Maple Hill Dr. Woodbridge, NJ 07095 </p> 
 ### <p align = center> +1 (973) - 826 - 2278</p>
 ### <p align = center>anbar.saleem@gmail.com</p>
 ## <p align = center> <a href="https://github.com/anbarsaleem">Github</a></p>
