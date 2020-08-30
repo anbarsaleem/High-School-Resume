@@ -5,7 +5,7 @@
 
 ### Skills
 
-* Programming: Java, Markdown, HTML
+* Programming: Java, Markdown, HTML, CSS, Javascript
 * Languages: English, Urdu
 * Other: Public Speaking, Leadership/Management, Teamwork, Problem-solving, Video Editing with Final Cut Pro X, Crocheting
 
