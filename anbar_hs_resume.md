@@ -1,7 +1,7 @@
 # <p align = center> Anbar Saleem </p> 
 ### <p align = center>anbar.saleem@gmail.com</p>
 ## <p align = center> <a href="https://github.com/anbarsaleem">Github</a></p>
-## <p align = center> <a href="https://anbarsaleem.github.io/Personal-Site/">Personal Website</a></p>
+## <p align = center> <a href="https://anbarsaleem.com/">Personal Website</a></p>
 
 ### Skills
 
