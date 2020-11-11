@@ -1,7 +1,7 @@
 # <p align = center> Anbar Saleem </p> 
 ### <p align = center>anbar.saleem@gmail.com</p>
-## <p align = center> <a href="https://github.com/anbarsaleem">Github</a></p>
-## <p align = center> <a href="https://anbarsaleem.com/">Personal Website</a></p>
+## <p align = center> <a href="https://github.com/anbarsaleem">Github: @anbarsaleem</a></p>
+## <p align = center> <a href="https://anbarsaleem.com/">Personal Website: anbarsaleem.com</a></p>
 
 ### Skills
 
@@ -11,9 +11,9 @@
 
 ### Education
 
-* John F. Kennedy Memorial High School (JFKMHS) | Iselin, New Jersey
-    - GPA - 3.96 / 4.33 
-    - Class of 2021
+* John F. Kennedy Memorial High School (JFKMHS) Class of 2021 | Iselin, New Jersey
+    - GPA - 3.98 / 4.33 
+    - Rank - 7/335
     - Completed AP Courses
         - Calculus AB/BC, Chemistry, World History, US History I, Statistics, Macroeconomics, English Language and Composition, Computer Science A
 
@@ -40,6 +40,7 @@ Mechanical Engineering Team Member (First Power Up) → Electrical Engineering T
 #### Central Jersey Math League | Iselin, New Jersey
 Competitor/Captain | 2017 - Present
 
+* Organized rosters for upcoming competitions
 * Honors Received
     - Top Scorer from JFKMHS
     - Multiple Time Top 3 Scorer from JFKMHS
@@ -73,6 +74,9 @@ Attendee | 2020
 
 #### High School Boys Varsity Cross Country Team | Iselin, New Jersey
 Runner/Competitor | 2017 - Present
+
+* Honors Received
+    - Most Improved Player
 
 ### Certifications
 
