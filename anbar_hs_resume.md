@@ -10,7 +10,7 @@
 ### Education
 
 * John F. Kennedy Memorial High School (JFKMHS) Class of 2021 | Iselin, New Jersey
-    - GPA - 3.98 / 4.33 
+    - GPA - 4.02 / 4.33 
     - Rank - 7/335
     - Completed AP Courses
         - Calculus AB/BC, Chemistry, World History, US History I, Statistics, Macroeconomics, English Language and Composition, Computer Science A
